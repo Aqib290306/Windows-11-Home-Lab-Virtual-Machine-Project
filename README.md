@@ -11,7 +11,6 @@ Day 1 - 03/06/2026
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf2f02b9-7dd4-4aa1-9afa-7589d1ac305d" />
 
 
-- [ ] 
 - [ ] Create user accounts
 - [ ] Install applications
 - [ ] Practice networking commands
