@@ -2,8 +2,6 @@
 Documenting my journey building a Windows 11 home lab while studying for CompTIA A+ and developing practical IT support skills.
 
 
-Day 1 - 03/06/2026
-
 - [x] Installed VirtualBox
 - [x] Downloaded Windows 11 ISO
 - Successfully proceeded with the process of manually installing windows rather than automatically. This allowed me to become familiar with the windows installation process.
