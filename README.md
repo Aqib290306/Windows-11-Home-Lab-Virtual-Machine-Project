@@ -65,14 +65,14 @@ Explored and used:
 
 Practised the following commands:
 
-cmd
-ipconfig
-ipconfig /all
-ping google.com
-tracert google.com
-nslookup google.com
-hostname
-systeminfo
+- cmd
+- ipconfig
+- ipconfig /all
+- ping google.com
+- tracert google.com
+- nslookup google.com
+- hostname
+- systeminfo
 
 
 ## Skills Demonstrated
