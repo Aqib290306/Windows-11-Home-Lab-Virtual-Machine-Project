@@ -28,13 +28,21 @@ Day 1 - 03/06/2026
 
 - [x] Install applications
 - Successfully installed google chrome and brave onto my virtual box.
-- 
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7fbbb823-d723-4291-a0bd-f4995c3a9fa4" />
 
 
-- [ ] View system statistics
+
+- [x] View system statistics
 - Successfully managed to find the stats of my virtual system, showing that it aligns with my initial setup pre launch.
-- <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cf05d5c-4ef8-4e3c-bcef-ccea6601fc14" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f56924be-c8f9-4d32-9d35-983039f1e799" />
 
 
-- [ ] Practice networking commands
-- [ ] Troubleshooting exercises
+
+- [x] Practice networking commands
+- Opened command prompt, and ran a few commands to make sure that everything is functioning fine.
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ae2b9280-a6f5-45a5-a2f3-654af83a105c" />
+- <img width="1911" height="1075" alt="image" src="https://github.com/user-attachments/assets/6f39d23e-2de6-42aa-85a4-de799c6f519e" />
+
+
+
+- [x] Troubleshooting exercises
