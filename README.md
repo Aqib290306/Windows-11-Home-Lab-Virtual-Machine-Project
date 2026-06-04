@@ -45,4 +45,4 @@ Day 1 - 03/06/2026
 
 
 
-- [x] Troubleshooting exercises
+
