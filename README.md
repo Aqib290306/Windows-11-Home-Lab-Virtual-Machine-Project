@@ -21,11 +21,20 @@ Day 1 - 03/06/2026
 
 
 - [x] Create user accounts
-- Successfully managed to create 2 user accounts, where one of the users has admin priviliges, whereas the other user is just a standard local account. This allowed me to understand how to create users, and assign them passwords, and even adjust system priviliges
+- Successfully managed to create 2 user accounts, where one of the users has admin priviliges, whereas the other user is just a standard local account. This allowed me to understand how to create users, and assign them passwords, and even adjust system priviliges.
 - <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94e23a3c-fc65-438b-86fb-5474440fa437" />
 
 
 
-- [ ] Install applications
+- [x] Install applications
+- Successfully installed google chrome and brave onto my virtual box.
+- 
+
+
+- [ ] View system statistics
+- Successfully managed to find the stats of my virtual system, showing that it aligns with my initial setup pre launch.
+- <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cf05d5c-4ef8-4e3c-bcef-ccea6601fc14" />
+
+
 - [ ] Practice networking commands
 - [ ] Troubleshooting exercises
