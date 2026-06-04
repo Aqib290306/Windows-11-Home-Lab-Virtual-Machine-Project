@@ -13,14 +13,19 @@ Day 1 - 03/06/2026
 
 
 
-- [ ] Created Windows 11 VM
+- [x] Created Windows 11 VM
 - After a while of struggling through many minor issues such as random blackscreening, I have managed to successfully boot up windows 11 on the virtual machine
 
 - <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/36a0edda-2e59-4721-be59-f8adde65f00b" />
 
 
 
-- [ ] Create user accounts
+- [x] Create user accounts
+- Successfully managed to create 2 user accounts, where one of the users has admin priviliges, whereas the other user is just a standard local account. This allowed me to understand how to create users, and assign them passwords, and even adjust system priviliges
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94e23a3c-fc65-438b-86fb-5474440fa437" />
+
+
+
 - [ ] Install applications
 - [ ] Practice networking commands
 - [ ] Troubleshooting exercises
