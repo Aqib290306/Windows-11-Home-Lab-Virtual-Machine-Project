@@ -31,3 +31,4 @@ Successfully pinged google.com.
 
 This pinging command shows that the internet connection is actually working.
 
+**Diagnosed and resolved a disabled network adapter using Windows networking tools.** #overall statement
