@@ -70,3 +70,73 @@ Software installed and launched successfully.
 ### Lessons Learned
 
 Administrative permissions are required for many software installations.
+
+
+
+## Issue 3 - Application Unexpectedly Closed
+
+### Problem
+
+Application (Notepad) closed unexpectedly during use.
+
+### Investigation
+
+Reviewed running processes using Task Manager. (Notepad not running)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d63d8f52-367e-4c5d-bcc6-f0867a0d7563" />
+
+
+### Root Cause
+
+The application process had terminated.
+
+### Resolution
+
+Restarted the application.
+
+### Verification
+
+Application opened and operated normally.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3665e627-39ce-4d23-96a9-ef32cc029396" />
+
+### Lessons Learned
+
+Task Manager is useful for investigating application-related issues.
+
+
+
+
+## Issue 4 - Incorrect System Date and Time
+
+### Problem
+
+System displayed an incorrect date and time.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0580ef89-4de2-41b3-bfd6-aee4963c3aa6" />
+
+
+### Investigation
+
+Reviewed date and time settings.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0883411c-cdaf-4c6c-9f01-55dfe64003b8" />
+
+
+### Root Cause
+
+Automatic time synchronisation was disabled.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fcf85cb1-d8f1-42f3-b16f-c7082359a90c" />
+
+
+### Resolution
+
+Re-enabled automatic date and time settings.
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/c298f9b5-42e7-4eda-8f06-6f83f83c138b" />
+
+
+### Verification
+
+System time updated correctly.
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/2872fac8-5a22-44c0-a3ac-a38d89f2919c" />
+
+
+### Lessons Learned
+
+Incorrect system time can be misleading and confuse users.
