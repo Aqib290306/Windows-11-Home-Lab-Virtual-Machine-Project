@@ -1,6 +1,6 @@
 # Troubleshooting Log
 
-## Issue 001 - No Internet Connection
+## Issue 1 - No Internet Connection
 <img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/badaba8d-b2fb-4f8c-a2f6-283f32a8e150" />
 
 
@@ -31,4 +31,42 @@ Successfully pinged google.com.
 
 This pinging command shows that the internet connection is actually working.
 
-**Diagnosed and resolved a disabled network adapter using Windows networking tools.** (overall statement)
+### Lessons Learned
+
+Network adapter status should be checked early when diagnosing connectivity issues.
+
+
+
+## Issue 2 - Software Installation Failure
+
+### Problem
+
+User was unable to install software.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99e1cf8a-4f15-4f96-a3cf-5c038f865f07" />
+
+
+### Investigation
+
+Checked account permissions and user type.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/82ff0511-3fd6-479a-b726-74bc76361da7" />
+
+
+### Root Cause
+
+The user account did not have administrator privileges and was only considered a standard local account, therefore cannot download anything.
+
+### Resolution
+
+Installed software using an administrator account.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94389554-6a03-4d84-9a64-94734cb8b4de" />
+
+
+### Verification
+
+Software installed and launched successfully.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8d79ee45-516e-4bd9-b43b-f9d748109233" />
+
+
+### Lessons Learned
+
+Administrative permissions are required for many software installations.
