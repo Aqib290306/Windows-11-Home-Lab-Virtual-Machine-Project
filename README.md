@@ -88,7 +88,7 @@ Practised the following commands:
 
 ## Key Learning Outcomes
 
-Through this project I developed practical experience working with Windows operating systems, troubleshooting common technical issues, and documenting resolutions using a structured support process. The project strengthened my understanding of core IT support concepts and provided hands-on experience that complements my CompTIA A+ studies.
+Through this project I developed practical experience working with Windows operating systems, troubleshooting common technical issues, and documenting resolutions using a structured support process. The project strengthened my understanding of core IT support concepts and provided hands-on experience.
 
 
 
